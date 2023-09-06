@@ -1,14 +1,13 @@
 version: 2
 updates:
   - package-ecosystem: "nuget"
-    directory: "/**/"
+    directory: "/"
     schedule:
       interval: "daily"
     open-pull-requests-limit: 5
 
-updates:
   - package-ecosystem: "npm"
-    directory: "/**/"
+    directory: "src/client/test-client"
     schedule:
       interval: "daily"
     open-pull-requests-limit: 5
