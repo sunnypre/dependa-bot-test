@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WbLKFCDuXQpyqpK8AqKybPJj61uvkagIonD+iFmSPUZTCLBIgkF+gqdr0Cb3Y5HsASJXFZlZ3NnRaXaYeKY+pQ==",
+  "dgSpecHash": "u8a8zSz1n+xXzX/PvsAbemjQAOPT8a2+Lilift3BYDAPjKjJ2TJwrKTmgU866jmB4wuArbu/kg52jRh7gorqGA==",
   "success": true,
   "projectFilePath": "C:\\Code\\vcat\\test-repo\\dependabot-test\\dependa-bot-test\\src\\backend\\webapp\\webapp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sunnyp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\sunnyp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\sunnyp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\sunnyp\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\sunnyp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
